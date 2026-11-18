@@ -34,7 +34,7 @@ Selected distinction modules: Systems Development 3, Software Testing 3, Databas
 
 | Credential | Issuer / programme |
 |---|---|
-| ![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-DB2777?style=flat-square&logo=amazonwebservices&logoColor=white) **AWS Certified Cloud Practitioner** | Amazon Web Services · AWS re/Start · 837/1000 |
+| ![AWS](https://img.shields.io/badge/AWS-Cloud%20Practitioner-DB2777?style=flat-square&logo=amazonwebservices&logoColor=white) **AWS Certified Cloud Practitioner** | Amazon Web Services · AWS re/Start |
 | ![Azure](https://img.shields.io/badge/Microsoft-AZ--900-111111?style=flat-square&logo=microsoft&logoColor=F9A8D4) **Azure Fundamentals (AZ-900)** | Microsoft · Mecer Inter-Ed |
 | ![AI](https://img.shields.io/badge/Microsoft-AI--901-EC4899?style=flat-square&logo=microsoft&logoColor=white) **Azure AI Fundamentals (AI-901)** | Microsoft · Mecer Inter-Ed |
 | Introduction to Cybersecurity | Cisco |
